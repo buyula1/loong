@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imager/minus.png</file>
+        <file>imager/close.png</file>
+        <file>imager/87424d5b535082fb0a2f26d438d662ac4a48173afed004-6dQ3lq_fw658.webp</file>
+        <file>style.qss</file>
+        <file>imager/2201.png</file>
+        <file>imager/2007.png</file>
+        <file>imager/2006.png</file>
+        <file>imager/2005.png</file>
+        <file>imager/2004.png</file>
+        <file>imager/2003.png</file>
+        <file>imager/2002.png</file>
+        <file>imager/2000.jpg</file>
+        <file>imager/a2001.png</file>
+        <file>imager/a2007.png</file>
+        <file>imager/a2006.png</file>
+        <file>imager/a2005.png</file>
+        <file>imager/a2004.png</file>
+        <file>imager/a2003.png</file>
+        <file>imager/a2002.png</file>
+        <file>imager/R-C.jpg</file>
+        <file>imager/beij1.jpg</file>
+        <file>imager/beiji2.jpg</file>
+        <file>imager/2024.png</file>
+        <file>imager/beijin2.png</file>
+        <file>imager/beijin3.png</file>
+        <file>imager/beijin4.jpg</file>
+    </qresource>
+</RCC>

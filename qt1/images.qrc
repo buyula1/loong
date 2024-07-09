@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imager/87424d5b535082fb0a2f26d438d662ac4a48173afed004-6dQ3lq_fw658.webp</file>
+        <file>imager/minus.png</file>
+        <file>imager/close.png</file>
+        <file>style.qss</file>
+        <file>imager/R-C.png</file>
+    </qresource>
+</RCC>
